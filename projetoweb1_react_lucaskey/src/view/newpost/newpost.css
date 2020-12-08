@@ -1,0 +1,16 @@
+.btn-cadastro {
+    background-color: #284B63;
+    color: white;
+}
+
+.btn-cadastro:hover {
+    background-color: rgb(110, 110, 110);
+    color: white;
+    border-color: rgb(231, 231, 231);
+}
+
+.input-image {
+    height: 50px;
+}
+
+/* rgb(241, 241, 241) */

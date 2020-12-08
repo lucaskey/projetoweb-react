@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #d1d1d1;
+    height: 80px;
+}
+
+.nav-item a {
+    color: black;
+}
+
+.nav-item a:hover {
+    color: white;
+}
+
+.logo {
+    color: #353535;
+}
+
+.logo:hover {
+    color: #353535;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,50 @@
+.login-content {
+    width: 100%;
+    padding: 15%;
+    margin: auto;
+    background-color: white;
+    height: 100vh;
+}
+
+.btn-login {
+    background-color: rgb(26, 49, 53);
+    color: #fff;
+}
+
+.btn-login:hover {
+    background-color: rgb(110, 110, 110);
+    color: white;
+    border-color: rgb(231, 231, 231);
+}
+
+.option-login a {
+    text-decoration: none;
+    color: black;
+    transition: .2s ease-in;
+}
+
+.option-login a:hover {
+    color:rgb(100, 131, 136);
+}
+
+.logo-login {
+    color: #353535; 
+}
+
+.logo-login:hover {
+    color: grey;
+}
+
+.inputEmail {
+    border-color: #fff;
+    border-bottom-color: black;
+    border-radius: 0%;
+}
+
+.inputPassword {
+    border-color: #fff;
+    border-bottom-color: black;
+    border-radius: 0%;
+}
+
+

@@ -1,0 +1,9 @@
+.footer {
+    background-color: #353535;
+    color: white;
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* colocar ele fixo no fundo da page, mesmo nao tendo nada de conteudo */
+}
